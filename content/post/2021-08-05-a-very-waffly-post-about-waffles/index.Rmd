@@ -1,0 +1,18 @@
+---
+title: A very waffly post about waffles
+author: 'Basil Gallmann'
+date: '2021-08-05'
+slug: a-very-waffly-post-about-waffles
+categories: []
+tags: []
+---
+
+I want to talk about waffles. But the truth is that I actually don't know that much about waffles. Here are some things I don't know:
+
+- this
+- that
+- anything else
+
+1. this
+2. that
+3. anything else

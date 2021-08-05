@@ -8,5 +8,5 @@ features = ["blog"]
 min_version = "0.0.1"
 
 [author]
-  name = "Danielle Navarro"
+  name = "Basil Gallmann"
   homepage = "https://djnavarro.net"
